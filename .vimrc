@@ -1,0 +1,10 @@
+syntax on
+set number
+set relativenumber
+set cursorline
+set showmode
+set title
+set ruler
+set showcmd
+colorscheme gruvbox
+set background=dark
